@@ -1,0 +1,9 @@
+C:\Users\coleg\source\repos\Penny_Year_Calculator\Penny_Year_Calculator\bin\Debug\Penny_Year_Calculator.exe.config
+C:\Users\coleg\source\repos\Penny_Year_Calculator\Penny_Year_Calculator\bin\Debug\Penny_Year_Calculator.exe
+C:\Users\coleg\source\repos\Penny_Year_Calculator\Penny_Year_Calculator\bin\Debug\Penny_Year_Calculator.pdb
+C:\Users\coleg\source\repos\Penny_Year_Calculator\Penny_Year_Calculator\obj\Debug\Penny_Year_Calculator.csprojAssemblyReference.cache
+C:\Users\coleg\source\repos\Penny_Year_Calculator\Penny_Year_Calculator\obj\Debug\Penny_Year_Calculator.Properties.Resources.resources
+C:\Users\coleg\source\repos\Penny_Year_Calculator\Penny_Year_Calculator\obj\Debug\Penny_Year_Calculator.csproj.GenerateResource.cache
+C:\Users\coleg\source\repos\Penny_Year_Calculator\Penny_Year_Calculator\obj\Debug\Penny_Year_Calculator.exe
+C:\Users\coleg\source\repos\Penny_Year_Calculator\Penny_Year_Calculator\obj\Debug\Penny_Year_Calculator.pdb
+C:\Users\coleg\source\repos\Penny_Year_Calculator\Penny_Year_Calculator\obj\Debug\Penny_Year_Calculator.FrmMain.resources
